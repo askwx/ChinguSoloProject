@@ -48,7 +48,7 @@
     flex-direction:column;
     justify-content: center;
     position: relative;
-    left: 300px;
+    left: 400px;
 }
 
 
@@ -84,7 +84,7 @@
 
 .botimage{
    position: relative;
-   left: 400px;
+   left: 350px;
    bottom: 135px;
 }
 
